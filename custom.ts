@@ -2,14 +2,14 @@
 * Sprite Wrapper for a codeplant.explosions
 */
 //% weight=100 color=#d2b48c 
-//% groups='["Small Animations", "Med Animations", "Large Animations", "Misc"]'
-namespace codeplant.explosions {
+//% groups='["Small Explosions", "Med Explosions", "Large Explosions", "Misc Explosions"]'
+namespace explosions {
         /**
          * @param sprite the sprite to make explode 
          * **/
     //% blockId=MedExplosionOne block="Med Explosion Animation 1 on Sprite %s"
     //% weight=100
-    //% group="Med Animations"
+    //% group="Med Explosions"
     export function MedExplosionOne(s: Sprite) {
         animation.runImageAnimation(
             s,
