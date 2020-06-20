@@ -1,12 +1,10 @@
 /**
-* Sprite Wrapper for a codeplant.explosions
+* Sprite Wrapper for codeplant.explosions
 */
 //% weight=100 color=#d2b48c 
 //% groups='["Small Explosions", "Med Explosions", "Large Explosions", "Misc Explosions"]'
 namespace explosions {
-        /**
-         * @param sprite the sprite to make explode 
-         * **/
+       
     //% blockId=MedExplosionOne block="Med Explosion Animation 1 on Sprite %s"
     //% weight=100
     //% group="Med Explosions"
