@@ -10,8 +10,6 @@ namespace codeplant.explosions {
     //% blockId=MedExplosionOne block="Med Explosion Animation 1 on Sprite %s"
     //% weight=100
     //% group="Med Animations"
-    //% inlineInputMode=inline
-    //% blockSetVariable=mySprite
     export function MedExplosionOne(s: Sprite) {
         animation.runImageAnimation(
             s,
@@ -32,7 +30,7 @@ namespace codeplant.explosions {
                 . . . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . .
-         `, img`
+            `, img`
                 . . . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . .
@@ -49,7 +47,7 @@ namespace codeplant.explosions {
                 . . . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . .
-         `, img`
+            `, img`
                 f f f . . . . . f f . . . . . .
                 f . . . . . . . f . . . . . . .
                 f . . . . . . . f . . . . . f .
@@ -66,7 +64,7 @@ namespace codeplant.explosions {
                 f f . . . . . . . f . . . . . .
                 . f f . . . . . . . . . . . . f
                 . f . . . . . . . . . . . . . f
-         `, img`
+            `, img`
                 . . . . . . . . c c . . . . . .
                 . c c c . . . . c . . . . . . .
                 . c 5 5 . . . . c . . . . 5 c .
@@ -83,7 +81,7 @@ namespace codeplant.explosions {
                 . . . . . . c c . . . 5 c . . .
                 . . . . . . c c 5 5 5 5 c . . .
                 . . . . . . . c c c c c c . . .
-         `, img`
+            `, img`
                 . . . . . . . . f f . . . . . .
                 f . . . . . . . f . . . . . . .
                 f . . . . . . . . . . . . . f .
@@ -100,7 +98,7 @@ namespace codeplant.explosions {
                 . f . . . . . . . . . . . . . .
                 . f . . . . . . . . . . . . . f
                 . . . . . . . . . . . . . . . f
-         `, img`
+            `, img`
                 5 . . . . . . . . . . . . . . 5
                 5 5 . . . . . . . . . . . 5 5 .
                 5 5 5 . . . . . . . . . 5 5 . .
@@ -117,7 +115,7 @@ namespace codeplant.explosions {
                 . . 5 5 5 5 . . . . . . . . . .
                 . 5 5 5 . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . .
-         `, img`
+            `, img`
                 5 . . . . . 5 5 . . . . . 5 5 5
                 5 5 . . . . 5 5 . . . 5 5 5 5 .
                 5 5 5 . . . 5 5 5 . 5 5 5 5 . .
@@ -134,7 +132,7 @@ namespace codeplant.explosions {
                 . . 5 5 5 5 . 5 5 5 5 5 5 5 . .
                 . 5 5 5 . . . 5 5 5 5 5 . . . .
                 . . . . . . . . . . . . . . . .
-         `, img`
+            `, img`
                 5 5 . . . . . . . . . . . . 5 5
                 5 5 5 . . . . . . . . . . 5 5 5
                 . 5 5 . . . . . . . . . . 5 . .
@@ -151,7 +149,7 @@ namespace codeplant.explosions {
                 . 5 . . . c c 4 4 4 c . . 5 5 .
                 5 . . . . . c c c c c . . . 5 5
                 5 . . . . . . . . . . . . . 5 5
-         `, img`
+            `, img`
                 . . . . . . . . . . . . . . . .
                 f . . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . f .
@@ -168,7 +166,7 @@ namespace codeplant.explosions {
                 . . . . . . . . . f . . . . . .
                 . . . . . . . . . . . . . . . f
                 . f . . . . . . . . . . . . . .
-         `, img`
+            `, img`
                 . . . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . .
@@ -185,7 +183,7 @@ namespace codeplant.explosions {
                 . . . . . . . . . f . . . . . .
                 . . . . . . . . . . . . . . . f
                 . f . . . . . . . . . . . . . .
-         `, img`
+            `, img`
                 . . . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . .
