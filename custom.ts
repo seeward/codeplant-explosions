@@ -5,7 +5,7 @@
 //% groups='["Small Explosions", "Med Explosions", "Large Explosions", "Misc Explosions"]'
 namespace explosions {
        
-    //% blockId=MedExplosionOne block="Med Explosion Animation 1 on Sprite %s"
+    //% blockId=MedExplosionOne block="Med Explosion 1 on Sprite %s"
     //% weight=100
     //% group="Med Explosions"
     export function MedExplosionOne(s: Sprite) {
