@@ -1,0 +1,16 @@
+{
+    "name": "codeplant-explosions",
+    "dependencies": {
+        "game": "*",
+        "animation": "*"
+    },
+    "description": "Boom",
+    "files": [
+        "README.md",
+        "custom.ts"
+    ],
+    "preferredEditor": "tsprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
